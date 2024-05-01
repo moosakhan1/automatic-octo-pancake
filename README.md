@@ -1,1 +1,1 @@
-# automatic-octo-pancake
+# make dice game
